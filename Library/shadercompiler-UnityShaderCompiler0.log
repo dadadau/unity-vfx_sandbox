@@ -1,0 +1,26 @@
+Base path: '/Users/hiroki/Documents/Unity/2019.4.16f1/Unity.app/Contents', plugins path '/Users/hiroki/Documents/Unity/2019.4.16f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=9184 outsize=9186 ok=1
+Cmd: preprocess
+  insize=40939 outsize=658 ok=1
+Cmd: preprocessCompute
+  insize=9725 outsize=9727 ok=1
+Cmd: preprocessCompute
+  insize=9272 outsize=9274 ok=1
+Cmd: preprocess
+  insize=40939 outsize=658 ok=1
+Cmd: preprocessCompute
+  insize=9852 outsize=9854 ok=1
+Cmd: preprocessCompute
+  insize=9184 outsize=9186 ok=1
+Cmd: preprocess
+  insize=40939 outsize=658 ok=1
+Cmd: preprocessCompute
+  insize=9725 outsize=9727 ok=1
+Cmd: preprocessCompute
+  insize=9184 outsize=9186 ok=1
+Cmd: preprocess
+  insize=40939 outsize=658 ok=1
+Cmd: preprocessCompute
+  insize=9725 outsize=9727 ok=1

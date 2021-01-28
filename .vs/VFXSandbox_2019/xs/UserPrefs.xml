@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0026496F-938C-4A1F-AED4-D7C82FBB4EDE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/RTHandleSystem.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/RTHandleSystem.cs" Line="359" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VFXSandbox_2019" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Unity.RenderPipelines.HighDefinition.Config.Runtime PreferredExecutionTarget="8781d92b-cbeb-44d1-af71-c73e73fb0013" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
